@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="logo_desc">This is the logo of the application</string>
+    <string name="caption_under_logo">Let\'s get started...</string>
+    <string name="login">Login</string>
+    <string name="showPassword">Show password</string>
+    <string name="forgotPwd">Forgot password?</string>
+    <string name="SignInWith">sign in with</string>
+    <string name="emailCaption"><font size="13">Enter email address</font></string>
+    <string name="password"><font size="13">Password</font></string>
+    <string name="account">Don\'t have an account?</string>
+    <string name="signup">Signup</string>
+    <string name="image_desc">Image description</string>
+    <string name="createAccount">create Account</string>
+    <string name="role"><font size="13">Role</font></string>
+    <string name="confirmPassword"><font size="13">Confirm Password</font></string>
+    <string name="AlreadyHaveAccount">Already have an account?</string>
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="submit">Submit</string>
+    <string name="purchase_entry">Purchase entry</string>
+    <string name="item_name">Name</string>
+    <string name="category">Category</string>
+    <string name="price_bought">P.Bought</string>
+    <string name="quantity">Quantity</string>
+    <string name="price_sold">P.sold</string>
+    <string name="date">Date</string>
+    <string name="bar_code">Bar code</string>
+    <string name="scan">Scan</string>
+    <string name="add">ADD</string>
+    <string name="enter_item_name">Enter item name</string>
+    <string name="select_category">Select category</string>
+    <string name="enter_purchase_price">Enter purchase price</string>
+    <string name="enter_quantity">Select quantity</string>
+    <string name="enter_price_for_sale">Enter selling price</string>
+    <string name="date_entry">Select date</string>
+    <string name="scan_bar_code">Scan bar/QR code</string>
+    <string name="scan_button">scan</string>
+    <string name="dropdown_menu_qty">dropdown_menu2</string>
+</resources>
